@@ -14,3 +14,6 @@ I'm also an enthusiast for [free software and the open-source movement](https://
 - 📫 How to reach me 📫
   - [My personal website](https://weiming-hu.github.io/)
 
+![Weiming's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weiming-Hu&count_private=true&show_icons=true&theme=maroongold)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weiming-Hu&theme=maroongold&layout=compact)
